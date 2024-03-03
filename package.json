@@ -1,7 +1,7 @@
 {
   "name": "@taiko/website",
   "version": "0.18.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "pnpm next build",
     "dev": "pnpm next dev",
